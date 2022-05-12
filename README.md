@@ -1,6 +1,6 @@
 ![GitHub stats](https://readme-ruddy.vercel.app/api?username=Synecho&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://readme-ruddy.vercel.app/api/top-langs/?username=Synecho&layout=compact)](https://github.com/Synecho)
+[![Top Langs](https://readme-ruddy.vercel.app/api/top-langs/?username=Synecho&layout=compact)](https://github.com/Synecho/MetaSeq-Toolkit)
 
 
 ### Programming languages:
