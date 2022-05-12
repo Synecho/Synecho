@@ -1,8 +1,5 @@
 ![GitHub stats](https://readme-ruddy.vercel.app/api?username=Synecho&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://readme-ruddy.vercel.app/api/top-langs/?username=Synecho&layout=compact)](https://github.com/Synecho/MetaSeq-Toolkit)
-
-
 ### Programming languages:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
