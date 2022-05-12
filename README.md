@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Synecho&count_private=true)
 
-[![Top Langs](https://readme-914gbnjtd-synecho.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-914gbnjtd-synecho.vercel.app/api/top-langs/?username=Synecho&layout=compact)](https://github.com/Synecho/github-readme-stats)
 
 
 ### Programming languages:
